@@ -1,0 +1,30 @@
+*{
+   background-color:#eff4fd;
+   font-family: sans-serif;
+    
+}
+
+.class3 p{
+    color:black;
+    line-height:30px;
+}
+.class4{
+    background:scroll;
+    margin:0;
+    padding:0;
+}
+
+
+.image{
+    width:50%;
+    height:70%;
+    position:absolute;
+    right:25%;
+}
+
+.image1{
+    width:50%;
+    height:70%;
+    position:absolute;
+    right:25%;
+}
